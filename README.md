@@ -15,10 +15,6 @@ Tech Stack:
 - CSS  
 - JavaScript
 
-Live Demo:
-
-[View Website](file:///C:/Users/LENOVO/OneDrive/Desktop/Prodigy%20Infotech/Task%204/index.html)  
-
 
 GitHub Repository:
 
@@ -26,6 +22,7 @@ GitHub Repository:
 
 
 Acknowledgment:
+
 Thanks to **Prodigy InfoTech** for the opportunity and guidance.
 
 Connect with Me
